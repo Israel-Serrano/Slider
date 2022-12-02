@@ -1,0 +1,44 @@
+*{padding: 0; 
+    margin: 0; 
+    box-sizing: border-box;
+    background-color: black;
+    background-image: url(../img/logo/fondo.jpg);
+}
+
+#logoWeb{
+    display: block;
+    margin: auto;
+}
+
+#foto{
+    height: 600px;
+    width: 1000px;
+    display: block;
+    margin: 30px auto;
+}
+
+#buttons{
+    margin:30px;
+    display: block;
+    
+}
+#back{
+    color: red;
+    position: relative;
+    bottom: 300px;
+    left: 406px;
+    font-size: larger;
+}
+
+#forward{
+    color: red;
+    position: relative;
+    bottom: 300px;
+    left: 1306px;
+    font-size: larger;
+}
+p{
+    display: block;
+    text-align: center;
+    accent-color: red;
+}
