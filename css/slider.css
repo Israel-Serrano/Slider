@@ -22,21 +22,32 @@
     display: block;
     
 }
+
 #back{
     color: red;
     position: relative;
     bottom: 300px;
-    left: 406px;
-    font-size: larger;
+    left: 395px;
+    font-size: x-large;
+}
+
+#back:hover{
+    color:brown;
+    cursor: pointer;
 }
 
 #forward{
     color: red;
     position: relative;
     bottom: 300px;
-    left: 1306px;
-    font-size: larger;
+    left: 1290px;
+    font-size: x-large;
 }
+#forward:hover{
+    color:brown;
+    cursor: pointer;
+}
+
 p{
     display: block;
     text-align: center;
